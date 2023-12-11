@@ -1,1 +1,1 @@
-# 671_MBTI
+# 671 Project MBTI team
